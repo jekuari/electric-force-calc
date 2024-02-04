@@ -2,7 +2,16 @@
 
 Homework for my uni, but decided to take it a step further
 
-## Run
+## Pre-requisites
+- [Node 20 installed](https://nodejs.org/en)
+- [Yarn installed](https://yarnpkg.com/## Steps to run
+
+### Install required dependencies
+```
+yarn
+```
+
+### Run the project
 ```
 yarn dev
 ```
