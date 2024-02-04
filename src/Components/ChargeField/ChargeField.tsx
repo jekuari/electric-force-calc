@@ -1,7 +1,5 @@
-import { useEffect, useState } from "react";
 import SimplifiedInput from "../Forms/SimplifiedInput/SimplifiedInputField/SimplifiedInput";
 import SimplifiedInputSelect from "../Forms/SimplifiedInput/SimplifiedInputSelect/SimplifiedInputSelect";
-import { calculateResultingForce } from "../../Functions/calculate";
 
 export type Charge = {
   value: number;
